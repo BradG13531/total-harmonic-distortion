@@ -1,0 +1,1 @@
+Calculates the total harmonic distortion from user given amplitude values in dBV
